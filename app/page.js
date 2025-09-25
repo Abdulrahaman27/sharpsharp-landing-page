@@ -23,6 +23,14 @@ export default function Home() {
           <p className="text-gray-600">Collaborate seamlessly and keep everyone aligned.</p>  
         </div>  
       </section>
+
+      {/* CTA section */}
+      <section className="mt-20 text-center">
+        <h2 className="text-3xl font-bold mb-4">Ready to work sharp-sharp?</h2>
+        <button className="px-6 py-3 rounded-2xl bg-blue-600 text-white font-semibold shadow-md hover:bg-blue-700">
+          Get started
+        </button>
+      </section>
     </main>
   );
 }
