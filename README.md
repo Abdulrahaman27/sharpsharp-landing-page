@@ -7,7 +7,6 @@ A sleek, animated landing page for **SharpSharp Management**, built with **Next.
 
 This landing page is designed to showcase your product, highlight features, and collect emails for a waitlist—all with smooth scroll-based animations and responsive design.
 
----
 
 ## Features
 
@@ -16,8 +15,6 @@ This landing page is designed to showcase your product, highlight features, and 
 - 📱 **Mobile-Friendly**: Fully responsive across devices.  
 - 🚀 **Animations**: Interactive components powered by Framer Motion.  
 - ✉️ **Contact Form**: Collect user messages easily.  
-
----
 
 
 ## Getting Started
