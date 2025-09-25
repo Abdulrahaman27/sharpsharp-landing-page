@@ -1,5 +1,3 @@
-
-
 ````markdown
 # SharpSharp Landing Page 🚀
 
@@ -7,6 +5,7 @@ A sleek, animated landing page for **SharpSharp Management**, built with **Next.
 
 This landing page is designed to showcase your product, highlight features, and collect emails for a waitlist—all with smooth scroll-based animations and responsive design.
 
+---
 
 ## Features
 
@@ -74,10 +73,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests.
 This project is licensed under the MIT License.
 
 ```
-
----
-
-If you want, I can **also add a small badge section at the top** with icons for Next.js, Tailwind, Framer Motion — that makes it **look super professional** on GitHub.  
 
 Do you want me to do that next?
 ```
